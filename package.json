@@ -1,0 +1,8 @@
+{
+  "name": "war-monte-carlo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:evilDave/war-monte-carlo.git",
+  "author": "David Clark <david@kit.fit>",
+  "license": "MIT"
+}
